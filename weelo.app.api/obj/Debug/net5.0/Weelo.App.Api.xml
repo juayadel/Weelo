@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Weelo.App.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Weelo.App.Api.Controllers.Auth.AuthenticationController.Authenticate(Weelo.App.Api.Entities.Auth.AuthENT)">
+            <summary>
+            token generation.
+            </summary>
+            <remarks>Use the next user:Admin and Pass: PassWorD </remarks>
+        </member>
+        <member name="M:Weelo.App.Api.Controllers.Owner.OwnerController.Save(Weelo.App.Api.Entities.Owner.OwnerENT)">
+            <summary>
+            Insert data of owners
+            </summary>
+            <remarks>Send files less than 1500 KB! and extencion .png</remarks>
+        </member>
+        <member name="M:Weelo.App.Api.Controllers.Property.PropertyController.Insert(Weelo.App.Api.Entities.Property.PropertyENT)">
+            <summary>
+            Insert data data into table property
+            </summary>
+            <remarks>Send files less than 1500 KB! and extencion .png</remarks>
+        </member>
+        <member name="M:Weelo.App.Api.Controllers.Trace.PropertyTraceController.Insert(Weelo.App.Api.Entities.Trace.PropertyTraceENT)">
+            <summary>
+            Insert data into table PropertyTrace
+            </summary>
+            <remarks>Send files less than 10mb!</remarks>
+        </member>
+    </members>
+</doc>

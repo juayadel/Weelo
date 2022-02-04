@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Weelo.App.Api", "weelo.app.api\Weelo.App.Api.csproj", "{0D55FBD0-EBCD-43C9-AF9E-BE30E014CBAC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Weelo.App.Api.Config", "weelo.app.config\Weelo.App.Api.Config.csproj", "{74ADB95B-AA8F-4B2E-AFB5-D9F60065E34F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Weelo.App.Api.Entities", "weelo.app.entities\Weelo.App.Api.Entities.csproj", "{13A91150-2B3E-4BAC-8C51-3C6C9CB2BE74}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Weelo.App.Api.LogicLayer", "Weelo.App.Api.LogicLayer\Weelo.App.Api.LogicLayer.csproj", "{5AF0ADF2-7A7A-4DFE-86F3-8D7E678D3F22}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Weelo.App.Api.EF", "Weelo.App.Api.EF\Weelo.App.Api.EF.csproj", "{2FC5AAAE-3F0E-4F5A-8157-8C8D9F4A9D4E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{17A9AB0C-34E8-4F12-A981-911037A602B2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Weelo.App.Api.EF.Test", "Test\Weelo.App.Api.EF.Test\Weelo.App.Api.EF.Test.csproj", "{B943FDC8-660D-4C4D-A632-8710AC45A480}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weelo.App.Api.Ef.Dal", "Weelo.App.Api.Ef.Dal\Weelo.App.Api.Ef.Dal.csproj", "{02D8A311-7B3B-431A-9D51-FC13AA3080A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D55FBD0-EBCD-43C9-AF9E-BE30E014CBAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D55FBD0-EBCD-43C9-AF9E-BE30E014CBAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D55FBD0-EBCD-43C9-AF9E-BE30E014CBAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D55FBD0-EBCD-43C9-AF9E-BE30E014CBAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74ADB95B-AA8F-4B2E-AFB5-D9F60065E34F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74ADB95B-AA8F-4B2E-AFB5-D9F60065E34F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74ADB95B-AA8F-4B2E-AFB5-D9F60065E34F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74ADB95B-AA8F-4B2E-AFB5-D9F60065E34F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13A91150-2B3E-4BAC-8C51-3C6C9CB2BE74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13A91150-2B3E-4BAC-8C51-3C6C9CB2BE74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13A91150-2B3E-4BAC-8C51-3C6C9CB2BE74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13A91150-2B3E-4BAC-8C51-3C6C9CB2BE74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AF0ADF2-7A7A-4DFE-86F3-8D7E678D3F22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AF0ADF2-7A7A-4DFE-86F3-8D7E678D3F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AF0ADF2-7A7A-4DFE-86F3-8D7E678D3F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AF0ADF2-7A7A-4DFE-86F3-8D7E678D3F22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FC5AAAE-3F0E-4F5A-8157-8C8D9F4A9D4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FC5AAAE-3F0E-4F5A-8157-8C8D9F4A9D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FC5AAAE-3F0E-4F5A-8157-8C8D9F4A9D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FC5AAAE-3F0E-4F5A-8157-8C8D9F4A9D4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B943FDC8-660D-4C4D-A632-8710AC45A480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B943FDC8-660D-4C4D-A632-8710AC45A480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B943FDC8-660D-4C4D-A632-8710AC45A480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B943FDC8-660D-4C4D-A632-8710AC45A480}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02D8A311-7B3B-431A-9D51-FC13AA3080A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02D8A311-7B3B-431A-9D51-FC13AA3080A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02D8A311-7B3B-431A-9D51-FC13AA3080A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02D8A311-7B3B-431A-9D51-FC13AA3080A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B943FDC8-660D-4C4D-A632-8710AC45A480} = {17A9AB0C-34E8-4F12-A981-911037A602B2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {703E994C-621E-4014-B45C-B4C04324D943}
+	EndGlobalSection
+EndGlobal

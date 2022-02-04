@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "DQe1TIQXY2yddY93RySdhIuW8euS3oAjpaOJ/JPwrHyqPTP8uswVS8WqJR8UGaqfxG+8eVkiUIkptF8n0U7aIw==",
+  "success": true,
+  "projectFilePath": "E:\\repos\\juayadel\\weelo.app.api\\weelo.app.entities\\Weelo.App.Api.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juant\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.8\\microsoft.aspnetcore.jsonpatch.3.1.8.nupkg.sha512",
+    "C:\\Users\\juant\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.8\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.8.nupkg.sha512",
+    "C:\\Users\\juant\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\juant\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\juant\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

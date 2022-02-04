@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Weelo.App.Api.Ef.Dal\Weelo.App.Api.Ef.Dal.csproj" />
+    <ProjectReference Include="..\weelo.app.entities\Weelo.App.Api.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

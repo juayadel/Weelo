@@ -1,0 +1,12 @@
+E:\repos\juayadel\weelo.app.api\weelo.app.config\bin\Debug\net5.0\Weelo.App.Api.Config.deps.json
+E:\repos\juayadel\weelo.app.api\weelo.app.config\bin\Debug\net5.0\Weelo.App.Api.Config.dll
+E:\repos\juayadel\weelo.app.api\weelo.app.config\bin\Debug\net5.0\ref\Weelo.App.Api.Config.dll
+E:\repos\juayadel\weelo.app.api\weelo.app.config\bin\Debug\net5.0\Weelo.App.Api.Config.pdb
+E:\repos\juayadel\weelo.app.api\weelo.app.config\obj\Debug\net5.0\Weelo.App.Api.Config.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\juayadel\weelo.app.api\weelo.app.config\obj\Debug\net5.0\Weelo.App.Api.Config.AssemblyInfoInputs.cache
+E:\repos\juayadel\weelo.app.api\weelo.app.config\obj\Debug\net5.0\Weelo.App.Api.Config.AssemblyInfo.cs
+E:\repos\juayadel\weelo.app.api\weelo.app.config\obj\Debug\net5.0\Weelo.App.Api.Config.csproj.CoreCompileInputs.cache
+E:\repos\juayadel\weelo.app.api\weelo.app.config\obj\Debug\net5.0\Weelo.App.Api.Config.dll
+E:\repos\juayadel\weelo.app.api\weelo.app.config\obj\Debug\net5.0\ref\Weelo.App.Api.Config.dll
+E:\repos\juayadel\weelo.app.api\weelo.app.config\obj\Debug\net5.0\Weelo.App.Api.Config.pdb
+E:\repos\juayadel\weelo.app.api\weelo.app.config\obj\Debug\net5.0\Weelo.App.Api.Config.csproj.AssemblyReference.cache

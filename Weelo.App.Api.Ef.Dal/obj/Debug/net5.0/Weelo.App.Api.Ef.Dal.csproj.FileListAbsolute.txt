@@ -1,0 +1,17 @@
+E:\repos\juayadel\weelo.app.api\Weelo.App.Api.Ef.Dal\bin\Debug\net5.0\Weelo.App.Api.Ef.Dal.deps.json
+E:\repos\juayadel\weelo.app.api\Weelo.App.Api.Ef.Dal\bin\Debug\net5.0\Weelo.App.Api.Ef.Dal.dll
+E:\repos\juayadel\weelo.app.api\Weelo.App.Api.Ef.Dal\bin\Debug\net5.0\ref\Weelo.App.Api.Ef.Dal.dll
+E:\repos\juayadel\weelo.app.api\Weelo.App.Api.Ef.Dal\bin\Debug\net5.0\Weelo.App.Api.Ef.Dal.pdb
+E:\repos\juayadel\weelo.app.api\Weelo.App.Api.Ef.Dal\bin\Debug\net5.0\Weelo.App.Api.Config.dll
+E:\repos\juayadel\weelo.app.api\Weelo.App.Api.Ef.Dal\bin\Debug\net5.0\Weelo.App.Api.EF.dll
+E:\repos\juayadel\weelo.app.api\Weelo.App.Api.Ef.Dal\bin\Debug\net5.0\Weelo.App.Api.EF.pdb
+E:\repos\juayadel\weelo.app.api\Weelo.App.Api.Ef.Dal\bin\Debug\net5.0\Weelo.App.Api.Config.pdb
+E:\repos\juayadel\weelo.app.api\Weelo.App.Api.Ef.Dal\obj\Debug\net5.0\Weelo.App.Api.Ef.Dal.csproj.AssemblyReference.cache
+E:\repos\juayadel\weelo.app.api\Weelo.App.Api.Ef.Dal\obj\Debug\net5.0\Weelo.App.Api.Ef.Dal.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\juayadel\weelo.app.api\Weelo.App.Api.Ef.Dal\obj\Debug\net5.0\Weelo.App.Api.Ef.Dal.AssemblyInfoInputs.cache
+E:\repos\juayadel\weelo.app.api\Weelo.App.Api.Ef.Dal\obj\Debug\net5.0\Weelo.App.Api.Ef.Dal.AssemblyInfo.cs
+E:\repos\juayadel\weelo.app.api\Weelo.App.Api.Ef.Dal\obj\Debug\net5.0\Weelo.App.Api.Ef.Dal.csproj.CoreCompileInputs.cache
+E:\repos\juayadel\weelo.app.api\Weelo.App.Api.Ef.Dal\obj\Debug\net5.0\Weelo.App.Api.Ef.Dal.csproj.CopyComplete
+E:\repos\juayadel\weelo.app.api\Weelo.App.Api.Ef.Dal\obj\Debug\net5.0\Weelo.App.Api.Ef.Dal.dll
+E:\repos\juayadel\weelo.app.api\Weelo.App.Api.Ef.Dal\obj\Debug\net5.0\ref\Weelo.App.Api.Ef.Dal.dll
+E:\repos\juayadel\weelo.app.api\Weelo.App.Api.Ef.Dal\obj\Debug\net5.0\Weelo.App.Api.Ef.Dal.pdb
